@@ -110,8 +110,8 @@ Sou um profissional em transição de carreira para a área de Qualidade de Soft
 ## Contato
 
 - 📍 São Paulo, Brasil
-- 📧 [Insira seu e-mail]
-- 🔗 [Insira seu LinkedIn]
-- 💻 [Insira link do GitHub ou portfólio]
+- 📧 luis_commans@hotmail.com
+- 🔗 https://www.linkedin.com/in/danilocommansqa
+- 💻 https://github.com/MrCommans
 
 Obrigado por visitar meu repositório! 🛵
